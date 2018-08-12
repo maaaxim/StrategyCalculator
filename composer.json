@@ -1,0 +1,20 @@
+{
+    "name": "maaaxim/strategy-calculator",
+    "description": "Using strategy pattern to implement simple console calculator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maxim Loboda",
+            "email": "maxim.loboda@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/console": "^4.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Maaaxim\\Strategy\\" : "src"
+        }
+    }
+}
