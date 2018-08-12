@@ -2,7 +2,7 @@
 
 namespace Maaaxim\Strategy\Service;
 
-use Maaaxim\Strategy\WrongExpressionFormat;
+use Maaaxim\Strategy\Exception\WrongExpressionFormat;
 
 class ExpressionService
 {

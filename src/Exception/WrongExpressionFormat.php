@@ -1,6 +1,6 @@
 <?php
 
-namespace Maaaxim\Strategy;
+namespace Maaaxim\Strategy\Exception;
 
 class WrongExpressionFormat extends \Exception
 {
